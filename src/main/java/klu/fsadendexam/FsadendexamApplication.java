@@ -1,0 +1,14 @@
+package klu.fsadendexam;
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FsadendexamApplication 
+{
+    public static void main(String[] args) 
+    {
+        SpringApplication.run(FsadendexamApplication.class, args);
+    }
+}
